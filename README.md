@@ -1,5 +1,5 @@
 # expense-tracker
-# JL Budget & Expense Web Application
+# purenest360 Budget & Expense Web Application
 
 A simple and intuitive web application designed to help you track and manage your monthly and annual expenses with ease.
 
@@ -23,7 +23,7 @@ A simple and intuitive web application designed to help you track and manage you
    - Add new expense categories as needed
    - Remove empty rows to maintain clean data
    - Use the refresh function to update totals
-4. **View Summary**: Check the financial summary column for complete overview
+4. **View Summary**: Check the financial summary column for a complete overview
 5. **Export Data**: Download your expense report as a CSV file for record-keeping
 
 ## 📊 Benefits
@@ -33,7 +33,7 @@ A simple and intuitive web application designed to help you track and manage you
 - **Data Portability**: CSV export allows you to use data in other applications
 - **Easy Management**: Simple interface makes expense tracking effortless
 
-## 🎯 Perfect For
+## Perfect For
 
 - Personal budget management
 - Small business expense tracking
@@ -47,11 +47,11 @@ Simply open the application [here](https://jimlubs.github.io/Expense-Tracker/), 
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 **Developed by Jimmy Lubega**
 
-Follow me on GitHub: [@jimlubs](https://github.com/jimlubs)
+Follow me on GitHub: [@j-lubega](https://github.com/j-lubega)
 
 ---
 
